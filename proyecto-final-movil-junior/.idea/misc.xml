@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Studio/ProyectoFinal/app/src/main/res/layout/activity_create_recordatorio.xml" value="0.30687830687830686" />
+        <entry key="..\:/Android Studio/ProyectoFinal/app/src/main/res/layout/activity_dashboard.xml" value="0.35280797101449274" />
+        <entry key="..\:/Android Studio/ProyectoFinal/app/src/main/res/layout/activity_main.xml" value="0.35280797101449274" />
+        <entry key="..\:/Android Studio/ProyectoFinal/app/src/main/res/layout/activity_notas.xml" value="0.35280797101449274" />
+        <entry key="..\:/Android Studio/ProyectoFinal/app/src/main/res/layout/activity_notas_items.xml" value="0.35280797101449274" />
+        <entry key="..\:/Android Studio/ProyectoFinal/app/src/main/res/layout/activity_recordatorio.xml" value="0.3484375" />
+        <entry key="..\:/Android Studio/ProyectoFinal/app/src/main/res/layout/activity_recordatorio_items.xml" value="0.35280797101449274" />
+        <entry key="..\:/Android Studio/ProyectoFinal/app/src/main/res/layout/activity_register.xml" value="0.35280797101449274" />
+        <entry key="..\:/Android Studio/ProyectoFinal/app/src/main/res/layout/create_activity_notas.xml" value="0.35280797101449274" />
+        <entry key="..\:/Android Studio/ProyectoFinal/app/src/main/res/layout/recordatorio.xml" value="0.35280797101449274" />
+        <entry key="..\:/Android Studio/ProyectoFinal/app/src/main/res/layout/update_notas.xml" value="0.35280797101449274" />
+        <entry key="..\:/Projects/backendb2/proyecto-final-movil-junior/app/src/main/res/layout/activity_articulo.xml" value="0.209375" />
+        <entry key="..\:/Projects/backendb2/proyecto-final-movil-junior/app/src/main/res/layout/activity_create_revista.xml" value="0.209375" />
+        <entry key="..\:/Projects/backendb2/proyecto-final-movil-junior/app/src/main/res/layout/activity_dashboard.xml" value="0.7076124567474048" />
+        <entry key="..\:/Projects/backendb2/proyecto-final-movil-junior/app/src/main/res/layout/activity_revista.xml" value="0.209375" />
+        <entry key="..\:/Projects/backendb2/proyecto-final-movil-junior/app/src/main/res/layout/create_activity_articulo.xml" value="0.209375" />
+        <entry key="..\:/Projects/backendb2/proyecto-final-movil-junior/app/src/main/res/layout/update_articulo.xml" value="0.209375" />
+        <entry key="..\:/Projects/backendb2/proyecto-final-movil-master/app/src/main/res/layout/activity_autor.xml" value="0.209375" />
+        <entry key="..\:/Projects/backendb2/proyecto-final-movil-master/app/src/main/res/layout/activity_autor_items.xml" value="0.22" />
+        <entry key="..\:/Projects/backendb2/proyecto-final-movil-master/app/src/main/res/layout/activity_create_recordatorio.xml" value="0.209375" />
+        <entry key="..\:/Projects/backendb2/proyecto-final-movil-master/app/src/main/res/layout/activity_create_revista.xml" value="0.209375" />
+        <entry key="..\:/Projects/backendb2/proyecto-final-movil-master/app/src/main/res/layout/activity_dashboard.xml" value="0.209375" />
+        <entry key="..\:/Projects/backendb2/proyecto-final-movil-master/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Projects/backendb2/proyecto-final-movil-master/app/src/main/res/layout/activity_notas.xml" value="0.1" />
+        <entry key="..\:/Projects/backendb2/proyecto-final-movil-master/app/src/main/res/layout/activity_notas_items.xml" value="0.1" />
+        <entry key="..\:/Projects/backendb2/proyecto-final-movil-master/app/src/main/res/layout/activity_recordatorio.xml" value="0.1" />
+        <entry key="..\:/Projects/backendb2/proyecto-final-movil-master/app/src/main/res/layout/activity_register.xml" value="0.33" />
+        <entry key="..\:/Projects/backendb2/proyecto-final-movil-master/app/src/main/res/layout/activity_revista.xml" value="0.209375" />
+        <entry key="..\:/Projects/backendb2/proyecto-final-movil-master/app/src/main/res/layout/activity_revista_items.xml" value="0.209375" />
+        <entry key="..\:/Projects/backendb2/proyecto-final-movil-master/app/src/main/res/layout/activity_update_recordatorio.xml" value="0.15572916666666667" />
+        <entry key="..\:/Projects/backendb2/proyecto-final-movil-master/app/src/main/res/layout/create_activity_autor.xml" value="0.33" />
+        <entry key="..\:/Projects/backendb2/proyecto-final-movil-master/app/src/main/res/layout/create_activity_notas.xml" value="0.1" />
+        <entry key="..\:/Projects/backendb2/proyecto-final-movil-master/app/src/main/res/layout/update_autor.xml" value="0.25" />
+        <entry key="..\:/Projects/backendb2/proyecto-final-movil-master/app/src/main/res/layout/update_notas.xml" value="0.22" />
+        <entry key="..\:/Projects/backendb2/proyecto-final-movil-master/app/src/main/res/layout/update_revista.xml" value="0.209375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
