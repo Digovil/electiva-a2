@@ -36,8 +36,9 @@ export class App {
   }
 
   routes() {
-    // this.route.estudianteRouter.routes(this.app);
-
+    this.route.autorRouter.routes(this.app);
+    this.route.revistaRouter.routes(this.app);
+    this.route.usuarioRouter.routes(this.app);
   }
 }
 

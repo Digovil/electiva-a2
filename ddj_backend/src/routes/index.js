@@ -1,7 +1,10 @@
-// import { EstudianteRouter } from "./estudiante.router.js";
-
+import { AutorRouter } from "./autor.routes.js";
+import { RevistaRouter } from "./revista.routes.js";
+import { UsuarioRouter } from "./usuario.routes.js";
 
 export class Index {
-    // estudianteRouter = new EstudianteRouter();
+    autorRouter = new AutorRouter();
+    revistaRouter = new RevistaRouter();
+    usuarioRouter = new UsuarioRouter();
     
 }
